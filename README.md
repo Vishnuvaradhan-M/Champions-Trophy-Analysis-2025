@@ -50,7 +50,7 @@ The analysis investigates individual and team performances over the past five ye
 ## Repository Contents
 
 - `CT.ipynb`: Main Jupyter Notebook containing the complete analysis
-- `Champions Trophy Analysis 2025.pdf`: Slide-format summary of results
+- `Champions Trophy Analysis 2025.pdf`: PDF format of ipynb file
 - Google Drive Link to Download the Dataset
 
 ---
