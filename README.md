@@ -60,3 +60,4 @@ The analysis investigates individual and team performances over the past five ye
   This study provides an in-depth view of how India’s current ODI squad is positioned for success in Dubai conditions. While key players exhibit strong individual metrics, the findings point to critical areas such as strike rotation, middle-order resilience, and spin utilization that could influence India's tournament strategy. The insights presented here are intended to support more informed and tactical decision-making ahead of the Champions Trophy 2025.
 
 ---
+Link for Dataset: https://drive.google.com/file/d/1F9_bWL92Tkv4W-ztkesFAPEBjjEXYAMv/view?usp=drive_link
